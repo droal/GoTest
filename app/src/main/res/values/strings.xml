@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GoTest</string>
+    <string name="establishment_name">Listado de establecimientos</string>
+    <string name="registro_name">Crear usuario</string>
+    <string name="login_btn_login">Login</string>
+    <string name="login_btn_signin">Sign In</string>
+    <string name="signin_tipo_doc">Tipo Documento</string>
+    <string name="signin_numeo_doc">Número de Identificación</string>
+    <string name="signin_nombres">Nombres</string>
+    <string name="signin_apellidos">Apellidos</string>
+    <string name="signin_telefono">Teléfono</string>
+    <string name="signin_correo">Correo</string>
+    <string name="signin_password">Contraseña</string>
+    <string name="signin_crear">Crear usuario</string>
+    <string name="item_image_establishment">Imagen del establecimiento</string>
+
+    <string name="signin_empty_imput">Todos los campos son requeridos</string>
+    <string name="signin_correo_err">El campo correo no tiene el formato correcto</string>
+    <string name="signin_password_err">La contraseña debe tener por lo menos 5 caracteres, una letra mayúscula, una minúscula, un número y un carácter especial</string>
+    <string name="login_correo">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_err">Usuario no registrado</string>
+
+    <string-array name="tiposdoc_array">
+        <item>CC</item>
+        <item>CE</item>
+        <item>TI</item>
+        <item>Pasaporte</item>
+    </string-array>
+</resources>
